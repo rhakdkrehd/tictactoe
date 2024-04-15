@@ -22,9 +22,6 @@
     src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=Next.js&amp;logoColor=white&amp;"
 />
 <img 
-    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=Next.js&amp;logoColor=white&amp;"
-/> 
-<img 
     src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"
 />
 <img 
